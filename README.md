@@ -108,6 +108,7 @@ A análise dos dados permitiu identificar:
 ┣ README.md
 ┣ data_dictionary.md
 ┗ .gitignore
+```
 
 ---
 
