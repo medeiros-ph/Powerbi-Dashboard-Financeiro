@@ -85,28 +85,29 @@ A análise dos dados permitiu identificar:
 
 ## 📂 Estrutura do Projeto
 
-**📦 powerbi-dashboard-financeiro**
-**┣ 📂 Assets**
-**┃ ┗ 📂 Backgrounds/**
-**┃   ┣ EED-P00-DARK.png**
-**┃   ┣ EED-P00-LIGHT.png**
-**┃   ┣ EED-P01-DARK.png**
-**┃   ┣ EED-P01-LIGHT.png**
-**┃   ┣ EED-P02-DARK.png**
-**┃   ┣ EED-P02-LIGHT.png**
-**┃   ┗ TemaLight.json**
-**┣ 📂 Data**
-**┃ ┣ CadastroPlanoContas.xlsx**
-**┃ ┣ Pagamentos.xlsx**
-**┃ ┗ Recebimentos.xlsx**
-**┣ 📂 Pbix**
-**┃ ┗ dashboard_financeiro.pbix**
-**┣ 📂 Images**
-**┃ ┣ Visao-Deral.png**
-**┃ ┗ Detalhamento.png**
-**┣ README.md**
-**┣ data_dictionary.md**
-**┗ .gitignore**
+```bash
+📦 powerbi-dashboard-financeiro
+┣ 📂 Assets
+┃ ┗ 📂 Backgrounds/
+┃   ┣ EED-P00-DARK.png
+┃   ┣ EED-P00-LIGHT.png
+┃   ┣ EED-P01-DARK.png
+┃   ┣ EED-P01-LIGHT.png
+┃   ┣ EED-P02-DARK.png
+┃   ┣ EED-P02-LIGHT.png
+┃   ┗ TemaLight.json
+┣ 📂 Data
+┃ ┣ CadastroPlanoContas.xlsx
+┃ ┣ Pagamentos.xlsx
+┃ ┗ Recebimentos.xlsx
+┣ 📂 Pbix
+┃ ┗ dashboard_financeiro.pbix
+┣ 📂 Images
+┃ ┣ Visao-Deral.png
+┃ ┗ Detalhamento.png
+┣ README.md
+┣ data_dictionary.md
+┗ .gitignore
 
 ---
 
