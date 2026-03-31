@@ -18,10 +18,10 @@ Construir um dashboard capaz de apoiar a tomada de decisão a partir de indicado
 ## 📷 Preview do Dashboard
 
 ### 📌 Visão Geral
-![Visão Geral](Images/Visao-Geral.png)
+![Visão Geral](/Images/Visao_Geral.PNG)
 
 ### 📌 Detalhamento
-![Detalhamento](Images/Detalhamento.png)
+![Detalhamento](/Images/Detalhamento.PNG)
 
 ---
 
